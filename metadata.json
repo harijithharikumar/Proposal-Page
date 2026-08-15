@@ -1,0 +1,6 @@
+{
+  "name": "A Tiny Question For You",
+  "description": "A wholesome, interactive romantic love proposal experience crafted with Maximum Pookie Energy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
